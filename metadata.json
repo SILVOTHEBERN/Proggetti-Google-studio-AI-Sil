@@ -1,0 +1,5 @@
+{
+  "name": "Copy of EmailMatcher Pro",
+  "description": "A smart utility to merge Excel datasets. Upload a reference file with emails and a target list without them to automatically match users and generate a formatted CSV import file.",
+  "requestFramePermissions": []
+}
